@@ -1,0 +1,23 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "Tutorial mongodb",
+  "homepage": "https://github.com/thiagogm/mongodb#readme",
+  "bugs": {
+    "url": "https://github.com/thiagogm/mongodb/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagogm/mongodb.git"
+  },
+  "license": "MIT",
+  "author": "Thiago Moura",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "^8.10.1"
+  }
+}
